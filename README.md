@@ -1,6 +1,6 @@
 # rxdash
 
-[![Proj](img/dash1.jpg)]
+![img](img/dash1.jpg)
 
 Digital dashboard for PowerFC ECU.
 
